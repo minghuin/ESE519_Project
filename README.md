@@ -13,6 +13,8 @@ Another interesting feature is that the brightness of the screen would automatic
 ## Diagram
 ![Circuit](https://user-images.githubusercontent.com/114015725/205458611-52b57a95-9999-4930-9a0c-e5fe758abfb6.jpg)
 
+## Circuit
+![Circuit (1)](https://user-images.githubusercontent.com/114015725/205458220-78c38008-cb0d-481e-9366-30cf82506b97.jpg)
 
 # Materials
 Buzzer
@@ -23,9 +25,7 @@ Pico4ml
 
 ![Pico4ml](https://user-images.githubusercontent.com/114015725/205458189-9b1b5b24-a74c-4aa0-a191-84875c989ed5.jpg)
 
-Circuit
 
-![Circuit (1)](https://user-images.githubusercontent.com/114015725/205458220-78c38008-cb0d-481e-9366-30cf82506b97.jpg)
 
 # Troubleshooting
 ## Temperature Measuring Problem
