@@ -85,3 +85,6 @@ This system operates independantly without the laptop, which makes it portable a
 The buzzer could be replaced by a speaker which could play different sound to produce a ringtone.
 
 There is a time delay caused by the WiFi module catching time information from the website.
+
+# Code
+https://github.com/minghuin/ESE519_General/blob/main/rp2040_hm01b0_st7735/main.c
