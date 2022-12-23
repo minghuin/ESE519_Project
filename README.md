@@ -2,6 +2,8 @@
 
 # Design
 An elect-rooster is an intelligent clock system. Current time and temperature are shown on the screen of Pico4ml and the brightness of the screen will be adjusted automatically based on the environment. The rooster will crow every morning when it sees the light. 
+
+
 ![05AC778D-8127-456B-AF4F-78B8116FB1DC_1_102_a](https://user-images.githubusercontent.com/114015725/209373902-898495f5-73e6-4c86-8a3a-431418999f2f.jpeg)
 
 
@@ -40,7 +42,7 @@ Power Bank
 
 ![image](https://user-images.githubusercontent.com/114015725/209374758-8889ebb5-f520-4abe-a14f-5af2d1fd0105.png)
 
-# Procedure
+# Development Overview
 1. Realize screen display
  
 2. Realize temperature measuring
@@ -49,11 +51,11 @@ Power Bank
 
 https://github.com/ApolloW1/ESE519_Project/blob/main/media/demos/demo.gif
 
-4. Buzzer control
+4. Buzzer control by light detection from the camera
 
-5. Complete brightness adjusting with camera
+5. Complete screen brightness adjusting with the camera
 
-6. WiFi module set up
+6. WiFi module setup
 
 7. Get initial time from website
 
