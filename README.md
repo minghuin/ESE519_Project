@@ -29,6 +29,12 @@ Buzzer
 
 ESP 8266
 
+![image](https://user-images.githubusercontent.com/114015725/209374495-b5291494-da7f-4a66-b245-02f6b96bf956.png)
+
+Power Bank
+
+![image](https://user-images.githubusercontent.com/114015725/209374758-8889ebb5-f520-4abe-a14f-5af2d1fd0105.png)
+
 
 # Demo
 <img width="447" alt="demo" src="https://user-images.githubusercontent.com/114015725/205527584-8d51b2d2-5bbf-490a-8a9c-fb7a5c4e3344.png">
