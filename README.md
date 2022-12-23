@@ -37,7 +37,7 @@ Power Bank
 
 
 # Demo
-<img width="447" alt="demo" src="https://user-images.githubusercontent.com/114015725/205527584-8d51b2d2-5bbf-490a-8a9c-fb7a5c4e3344.png">
+
 
 # Troubleshooting
 ## Temperature Measuring Problem
