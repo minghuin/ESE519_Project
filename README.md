@@ -1,5 +1,8 @@
 # Electrooster
 
+## Team 
+Minghui Ni: github.com/minghuin
+Yizhe Wang: github.com/ApolloW1
 # Design
 Elect-rooster is an intelligent clock system. Current time and temperature are shown on the screen of Pico4ml and the brightness of the screen will be adjusted automatically based on the environment. The rooster will crow every morning when it sees the light. 
 
