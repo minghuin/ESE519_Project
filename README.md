@@ -34,7 +34,7 @@ Buzzer
 
 ![Buzzer](https://user-images.githubusercontent.com/114015725/205458210-97050459-0119-4827-a8aa-bbd22abb02c5.jpg)
 
-ESP 8266
+WiFi module: ESP 8266
 
 ![image](https://user-images.githubusercontent.com/114015725/209374495-b5291494-da7f-4a66-b245-02f6b96bf956.png)
 
@@ -44,7 +44,7 @@ Power Bank
 
 Camera Module: HiMax HM01B0
 
-Temperature sensor
+Temperature sensor: ICM-20948
 
 Screen: 0.96 inch LCD SPI Display
 
