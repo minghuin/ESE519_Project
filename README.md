@@ -32,19 +32,19 @@ https://github.com/ApolloW1/ESE519_Project/blob/main/media/demos/IMG_0537.gif
 
 Pico4ml
 
-![Pico4ml](https://user-images.githubusercontent.com/114015725/205458189-9b1b5b24-a74c-4aa0-a191-84875c989ed5.jpg)
+https://github.com/ApolloW1/ESE519_Project/blob/main/media/materials/Pico4ml.jpg
 
 Buzzer
 
-![Buzzer](https://user-images.githubusercontent.com/114015725/205458210-97050459-0119-4827-a8aa-bbd22abb02c5.jpg)
+https://github.com/ApolloW1/ESE519_Project/blob/main/media/materials/Buzzer.jpg
 
 WiFi module: ESP 8266
 
-![image](https://user-images.githubusercontent.com/114015725/209374495-b5291494-da7f-4a66-b245-02f6b96bf956.png)
+https://github.com/ApolloW1/ESE519_Project/blob/main/media/materials/ESP%208266.png
 
 Power Bank
 
-![image](https://user-images.githubusercontent.com/114015725/209374758-8889ebb5-f520-4abe-a14f-5af2d1fd0105.png)
+https://github.com/ApolloW1/ESE519_Project/blob/main/media/materials/Power%20Bank.png
 
 Camera Module: HiMax HM01B0
 
