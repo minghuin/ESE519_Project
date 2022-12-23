@@ -80,6 +80,8 @@ float temp = 27-(result-0.706)/0.003021;
 The time is not accurate when we simply set sleep time to 1000 ms in the code. We then record the difference of 100 s and 1000 s of the program and compare it with the real time to adjust the sleep time, which gives us a relative correct timestemp.
 
 # Reflection
+This system operates independantly without the laptop, which makes it portable and pratical in life. The WiFi module makes the initilization easier without setting the time manually.
+
 The buzzer could be replaced by a speaker which could play different sound to produce a ringtone.
 
 There is a time delay caused by the WiFi module catching time information from the website.
