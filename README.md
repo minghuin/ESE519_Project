@@ -47,6 +47,8 @@ Power Bank
 
 3. Realize time correction
 
+https://github.com/ApolloW1/ESE519_Project/blob/main/media/demos/demo.gif
+
 4. Buzzer control
 
 5. Complete brightness adjusting with camera
