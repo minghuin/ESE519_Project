@@ -1,7 +1,7 @@
 # ESE519_Project
 
 # Design
-A intelligence clock system is designed with the screen of Pico4ml to show time and temperature information. The time should be initialized every time when it's connected to power as Pico4ml does not have its internal clock. 
+An elect-rooster is designed with the screen of Pico4ml to show time and temperature information. Time will be initialized every time by WiFi when it's connected to power as Pico4ml does not have its internal clock. 
 
 ## Feature
 The basic feature is that the alarm will ring on the setting time. 
@@ -11,10 +11,8 @@ Besides, the temperature information is collceted by the temperature sensor of P
 Another interesting feature is that the brightness of the screen would automatically adjust based on the current environment, so your eyes wouln't be hurt in a dark environment. This is realized by the average brightness calculation based on the pictures shot by the camera. 
 
 ## Diagram
-![Circuit](https://user-images.githubusercontent.com/114015725/205458611-52b57a95-9999-4930-9a0c-e5fe758abfb6.jpg)
+![image](https://user-images.githubusercontent.com/114015725/209371673-579a6b6a-68b4-440d-be8e-82d6b97cbbed.png)
 
-## Circuit
-![Circuit (1)](https://user-images.githubusercontent.com/114015725/205458220-78c38008-cb0d-481e-9366-30cf82506b97.jpg)
 
 # Materials
 Buzzer
