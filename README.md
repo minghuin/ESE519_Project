@@ -13,7 +13,7 @@ Instant temperature is collected by the temperature sensor on Pico4ml.
 Another interesting feature is that the brightness of the screen would automatically adjust based on the environment. It will go dark in a dark environment, so your eyes won't get hurt. This is realized by the average brightness calculation based on the pictures shot by the camera. 
 
 
-# Demo
+## Demo
 
 https://github.com/ApolloW1/ESE519_Project/blob/main/media/demos/IMG_0537.gif
 
