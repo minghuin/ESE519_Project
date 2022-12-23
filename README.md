@@ -1,14 +1,14 @@
 # ESE519_Project
 
 # Design
-An elect-rooster is designed with the screen of Pico4ml to show time and temperature information. Time will be initialized every time by WiFi when it's connected to power as Pico4ml does not have its internal clock. 
+An elect-rooster is an intelligent clock system. Current time and temperature are shown on the screen of Pico4ml and the brightness of the screen will be adjusted automatically based on the environment. The rooster will crow every morning when it sees the light. 
 
 ## Feature
-The basic feature is that the alarm will ring on the setting time. 
+Initialization of current time is realized by WiFi module ESP 8266.
 
-Besides, the temperature information is collceted by the temperature sensor of Pico4ml itself. 
+Instant temperature is collected by the temperature sensor on Pico4ml. 
 
-Another interesting feature is that the brightness of the screen would automatically adjust based on the current environment, so your eyes wouln't be hurt in a dark environment. This is realized by the average brightness calculation based on the pictures shot by the camera. 
+Another interesting feature is that the brightness of the screen would automatically adjust based on the environment. It will go dark in a dark environment, so your eyes won't get hurt. This is realized by the average brightness calculation based on the pictures shot by the camera. 
 
 ## Diagram
 ![image](https://user-images.githubusercontent.com/114015725/209371673-579a6b6a-68b4-440d-be8e-82d6b97cbbed.png)
