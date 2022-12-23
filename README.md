@@ -12,6 +12,11 @@ Instant temperature is collected by the temperature sensor on Pico4ml.
 
 Another interesting feature is that the brightness of the screen would automatically adjust based on the environment. It will go dark in a dark environment, so your eyes won't get hurt. This is realized by the average brightness calculation based on the pictures shot by the camera. 
 
+
+# Demo
+
+https://github.com/ApolloW1/ESE519_Project/blob/main/media/demos/IMG_0537.gif
+
 ## Diagram
 <img width="416" alt="image" src="https://user-images.githubusercontent.com/114015725/209372855-7c0fa8dc-8ebf-4236-869c-a21c33068fa6.png">
 
@@ -34,10 +39,6 @@ ESP 8266
 Power Bank
 
 ![image](https://user-images.githubusercontent.com/114015725/209374758-8889ebb5-f520-4abe-a14f-5af2d1fd0105.png)
-
-
-# Demo
-
 
 # Troubleshooting
 ## Temperature Measuring Problem
