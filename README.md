@@ -40,6 +40,21 @@ Power Bank
 
 ![image](https://user-images.githubusercontent.com/114015725/209374758-8889ebb5-f520-4abe-a14f-5af2d1fd0105.png)
 
+# Procedure
+1. Realize screen display
+ 
+2. Realize temperature measuring
+
+3. Realize time correction
+
+4. Buzzer control
+
+5. Complete brightness adjusting with camera
+
+6. WiFi module set up
+
+7. Get initial time from website
+
 # Troubleshooting
 ## Temperature Measuring Problem
 At first, the data obtained by the temperature sensor is nor correct, which is because of the intrinsic setting on different sensors. We measure the outdoor temperature and indoor temperature as anchor to adjust the algorithms in the code, resulting in accurate temperature measuring.
